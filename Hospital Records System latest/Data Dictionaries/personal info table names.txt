@@ -1,0 +1,5 @@
+Table personal_info Fieldnames
+personal_info.hospital_no, Surname, First_Name, Middle_Name, Date_of_Birth, Sex, Place_of_Birth, Local_Govt_Area, Nationality, Religion, State_of_Origin
+
+Table contact_info Fieldnames
+Home_Address, Office_Address, Home_Phone, Office_Phone, Occupation, surname_nok, First_Name_NoK, relationship_to_nok, Address_of_NoK, Phone_No_of_NoK
